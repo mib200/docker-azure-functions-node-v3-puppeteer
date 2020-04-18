@@ -1,9 +1,9 @@
 {
   "name": "pdf-generate",
   "version": "1.0.0",
-  "description": "",
+  "description": "azure function image to use puppeteer",
   "scripts" : {
     "test": "echo \"No tests yet...\""
   },
-  "author": ""
+  "author": "Manish Kumar"
 }
