@@ -4,6 +4,8 @@ csx
 .vs
 edge
 Publish
+azure-functions-core-tools
+.vscode
 
 *.user
 *.suo
